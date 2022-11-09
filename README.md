@@ -1,6 +1,6 @@
 <center>
 
-# Sup Bro! <img src="https://user-images.githubusercontent.com/105398078/198858529-f0e5c8f4-7c94-44c0-a014-b7b903505b48.png" width="80px">
+# Sup Bro! 
 
   
 ## About me:
