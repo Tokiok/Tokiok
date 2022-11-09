@@ -32,5 +32,4 @@
 
 ## Stats:
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=tokiok&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Tokiok/github-readme-stats#gh-dark-mode-only)
-
+![Tokiok's GitHub stats](https://github-readme-stats.vercel.app/api?username=tokiok&show_icons=true&theme=radical)
