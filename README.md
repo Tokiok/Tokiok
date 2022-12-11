@@ -14,7 +14,7 @@
 
 - 🎧 Music enthusiast
 
-- 🎮 Osu player (Voidappe: #513.597)
+- 🎮 Osu player (Voidappe: 470.454)
 ---
 
 
