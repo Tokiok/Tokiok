@@ -1,7 +1,6 @@
 <center>
 
-# Sup Bro! 
-
+# Sup! :)
   
   
 ## About Me:
